@@ -1,0 +1,26 @@
+google.com|Google Search Engine|Search anything on Google.
+github.com|GitHub|Code hosting and collaboration platform.
+leetcode.com|LeetCode|Practice coding and algorithm problems.
+youtube.com|YouTube|Watch and share videos online.
+openai.com|OpenAI|Artificial intelligence research and products.
+stackoverflow.com|Stack Overflow|Community platform for programming questions and answers.
+wikipedia.org|Wikipedia|Free online encyclopedia with knowledge on many topics.
+amazon.com|Amazon|Online shopping and marketplace platform.
+netflix.com|Netflix|Stream movies and TV shows online.
+linkedin.com|LinkedIn|Professional networking and career platform.
+reddit.com|Reddit|Community discussion and content-sharing platform.
+twitter.com|Twitter|Social networking and microblogging platform.
+facebook.com|Facebook|Social networking and communication platform.
+instagram.com|Instagram|Photo and video sharing platform.
+microsoft.com|Microsoft|Technology company providing software and cloud services.
+apple.com|Apple|Technology company providing consumer electronics and software.
+googlemaps.com|Google Maps|Maps and navigation service.
+coursera.org|Coursera|Online learning and educational courses platform.
+udemy.com|Udemy|Online learning and skill development platform.
+geeksforgeeks.org|GeeksforGeeks|Computer science and programming learning platform.
+hackerrank.com|HackerRank|Programming practice and coding assessment platform.
+codeforces.com|Codeforces|Competitive programming contest platform.
+codechef.com|CodeChef|Competitive programming and coding platform.
+npmjs.com|npm|Package registry for JavaScript and Node.js.
+docker.com|Docker|Containerization and software development platform.
+kaggle.com|Kaggle|Data science and machine learning community platform.
